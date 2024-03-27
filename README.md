@@ -3,7 +3,7 @@
 
 ## Overview
 
-Learning all about Client and Server and real time communication using sockets in C++.
+Learning all about Client and Server and real time communication using sockets in C.
 
 This pokemon networking card game system facilitates the interaction between clients and a server to manage card transactions, user sessions, and real-time communication over a network. Designed with a focus on scalability and robustness, the system supports multiple clients, allowing users to buy, sell, deposit, and list cards in a simulated card trading environment.
 
